@@ -14,3 +14,8 @@ Mona's website focuses on practical GitHub guidance backed by official reference
 - GitHub Copilot as an AI coding assistant across the IDE, CLI, and GitHub.
 - GitHub Actions as the automation layer behind repository workflows.
 - Recent GitHub Blog and Changelog stories worth watching.
+
+## Recent updates worth reading
+
+- [GitHub Copilot app for Beginners: How to teach Copilot about your codebase](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/): add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright.
+- [How to continue a GitHub Copilot app session in VS Code](https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/): move an agent session into VS Code without losing the conversation, code changes, or working context.
