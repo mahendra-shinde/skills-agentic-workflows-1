@@ -14,6 +14,7 @@ network:
   allowed:
     - github.blog
     - github.com
+    - awesome-copilot.github.com
 tools:
   edit:
   web-fetch:
@@ -30,6 +31,7 @@ Use `web-fetch` to read both:
 
 - https://github.blog/latest/
 - https://github.blog/changelog/
+- https://awesome-copilot.github.com/workflows/
 
 Look for recent, useful information that fits the site's practical guidance for developers. Keep any additions short and practical, avoid duplicates, and link each new claim directly to its GitHub Blog or Changelog source. Preserve the existing editorial focus and only edit `site/content/github-info.md`.
 
